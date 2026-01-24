@@ -1,5 +1,5 @@
 # soorajsunil777
-# Hi, I'm Sooraj 👋
+## Hi there, I'm Sooraj 👋
 
 🎓 MSc. Systems Engineering for Manufacturing  
 🏭 Factory Automation | Material Flow Simulation | Virtual Commissioning | Digital Engineering 
