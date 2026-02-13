@@ -29,10 +29,10 @@ Material Flow Simulation | Factory Automation | Virtual Commissioning | Digital 
 
 ### Portfolio
 
-**[Visual-Components](https://github.com/soorajsunil777/Visual-Components)** — Industrial automation simulation and virtual commissioning portfolio. Includes simulation library development, custom component design, ctrlX-based virtual commissioning, and Python add-on development.
+**[Visual-Components](https://github.com/soorajsunil777/Visual-Components)** : Includes Visual Components simulation library development, custom component design, ctrlX-based virtual commissioning, and Python add-on development.
 
-**[EPLAN_Scripting](https://github.com/soorajsunil777/EPLAN_Scripting)** — C# scripts automating page macro insertion, device numbering, and report generation via the EPLAN API. Developed as part of a master thesis on digital engineering toolchains.
+**[EPLAN_Scripting](https://github.com/soorajsunil777/EPLAN_Scripting)** : C# scripts automating page macro insertion, device numbering, and report generation via the EPLAN API. Developed as part of a master thesis on digital engineering toolchains.
 
-**[Plant-Simulation](https://github.com/soorajsunil777/Plant-Simulation)** — Discrete event simulation with genetic algorithm optimization for material flow systems using Siemens Technomatix Plant Simulation.
+**[Plant-Simulation](https://github.com/soorajsunil777/Plant-Simulation)** : Discrete event simulation with genetic algorithm optimization for material flow systems using Siemens Technomatix Plant Simulation.
 
-**[ExtendSim](https://github.com/soorajsunil777/ExtendSim)** — Discrete event and discrete rate simulation for production system analysis. Demonstrates DES/DRS methodologies through a factory model with flow dynamics and quality control.
+**[ExtendSim](https://github.com/soorajsunil777/ExtendSim)** : Discrete event and discrete rate simulation for production system analysis. Demonstrates DES/DRS methodologies through a factory model with flow dynamics and quality control.
