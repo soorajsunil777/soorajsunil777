@@ -4,6 +4,9 @@
 
 Material Flow Simulation | Factory Automation | Virtual Commissioning | Digital Engineering | Digital Twin | PLC Programming
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soorajsunil)
+
+
 ---
 
 ### Tech & Tools
@@ -33,7 +36,3 @@ Material Flow Simulation | Factory Automation | Virtual Commissioning | Digital 
 **[Plant-Simulation](https://github.com/soorajsunil777/Plant-Simulation)** — Discrete event simulation with genetic algorithm optimization for material flow systems using Siemens Technomatix Plant Simulation.
 
 **[ExtendSim](https://github.com/soorajsunil777/ExtendSim)** — Discrete event and discrete rate simulation for production system analysis. Demonstrates DES/DRS methodologies through a factory model with flow dynamics and quality control.
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soorajsunil)
